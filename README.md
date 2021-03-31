@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thanhhaibkit
 - 👀 I’m interested in Java, PHP, VueJS
 - 🌱 I’m currently learning MicroService
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> @thanhhaibkit
 
 <!---
