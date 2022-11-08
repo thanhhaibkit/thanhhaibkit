@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henry Truong, a software engineer from Ho Chi Minh city, Vietnam.
+- 👋 Hi, I’m Dylan Truong, a software enginee.
 - 👀 I’m interested in Java, PHP, VueJS
 - 🌱 I’m currently learning MicroService, Python and Ruby.
 - 📫 How to reach me -> @thanhhaibkit
