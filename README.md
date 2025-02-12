@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dylan Truong, a software enginee.
 - 👀 I’m interested in Java, PHP, VueJS
-- 🌱 I’m currently learning MicroService, Python and Ruby.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me -> @thanhhaibkit
 
 <!---
