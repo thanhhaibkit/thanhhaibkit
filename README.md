@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dylan Truong, a software enginee.
+- 👋 Hi, I’m Henry Truong, a software enginee.
 - 👀 I’m interested in Java, PHP, VueJS
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me -> @thanhhaibkit
